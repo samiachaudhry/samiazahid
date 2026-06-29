@@ -2,6 +2,10 @@
 Master's Student in Computer Science at Soonchunhyang University, South Korea.
 My research focuses on Artificial Intelligence, Machine Learning, and Computer Vision, with an interest in developing intelligent, scalable, and trustworthy AI systems for real-world applications.
 
+## Contact
+Email: samiazahid@gmail.com
+LinkedIn:https://linkedin.com/in/yourprofile
+
 ## Research Interests
 - Artificial Intelligence
 - Machine Learning
