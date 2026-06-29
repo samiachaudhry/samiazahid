@@ -4,7 +4,7 @@ My research focuses on Artificial Intelligence, Machine Learning, and Computer V
 
 ## Contact
 Email: samiazahid@gmail.com
-LinkedIn:https://linkedin.com/in/yourprofile
+LinkedIn:https: https://www.linkedin.com/in/samia-zahid-38652b198/
 
 ## Research Interests
 - Artificial Intelligence
